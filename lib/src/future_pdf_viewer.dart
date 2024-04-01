@@ -2,7 +2,7 @@ import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
 
-import '../ivlivs_pdf_viewer.dart';
+import 'pdf_viewer.dart';
 
 class FuturePdfViewer extends StatelessWidget {
   const FuturePdfViewer({

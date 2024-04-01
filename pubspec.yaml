@@ -1,6 +1,6 @@
 name: ivlivs_pdf_viewer
 description: A basic cross-platform PDF viewer.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/IVLIVS-III/ivlivs_pdf_viewer
 
 environment:
