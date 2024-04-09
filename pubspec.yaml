@@ -1,6 +1,6 @@
 name: ivlivs_pdf_viewer
 description: A basic cross-platform PDF viewer.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/IVLIVS-III/ivlivs_pdf_viewer
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  pdfrx: ^1.0.50
+  pdfrx: ^1.0.52
   web: ^0.5.1
 
 dev_dependencies:

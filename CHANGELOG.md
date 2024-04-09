@@ -1,3 +1,7 @@
+## 0.0.4
+
+* Fixed compilation on native platforms.
+
 ## 0.0.3
 
 * Cleaned the `PdfViewer` implementation.
