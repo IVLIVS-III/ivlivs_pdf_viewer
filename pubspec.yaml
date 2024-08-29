@@ -1,5 +1,7 @@
 name: ivlivs_pdf_viewer
-description: A basic cross-platform PDF viewer.
+description:
+  A basic cross-platform PDF viewer.
+  Uses an iframe element on web and the pdfrx package on all native platforms.
 version: 0.1.0
 homepage: https://github.com/IVLIVS-III/ivlivs_pdf_viewer
 

@@ -1,6 +1,7 @@
 ## 0.1.0
 
 * Updated dependencies.
+* Improved pub points.
 
 ## 0.0.4
 
