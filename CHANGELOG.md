@@ -1,3 +1,7 @@
+## 0.1.0
+
+* Updated dependencies.
+
 ## 0.0.4
 
 * Fixed compilation on native platforms.
