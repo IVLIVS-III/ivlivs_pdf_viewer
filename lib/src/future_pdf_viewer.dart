@@ -49,10 +49,7 @@ class FuturePdfViewer extends StatelessWidget {
               Text("Error loading PDF: $error");
         }
 
-        return PdfViewer(
-          data: data,
-          sourceName: sourceName,
-        );
+        return PdfViewer(data: data, sourceName: sourceName);
       },
     );
   }

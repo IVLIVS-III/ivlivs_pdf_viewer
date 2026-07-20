@@ -12,11 +12,7 @@ import "package:pdfrx/pdfrx.dart" as pdfrx;
 /// Web:    Renders the browser's built-in PDF viewer in an iframe.
 class PdfViewer extends StatefulWidget implements IPdfViewer {
   /// Creates a basic cross-platform PDF viewer.
-  const PdfViewer({
-    super.key,
-    required this.data,
-    required this.sourceName,
-  });
+  const PdfViewer({super.key, required this.data, required this.sourceName});
 
   @override
   final Uint8List data;
