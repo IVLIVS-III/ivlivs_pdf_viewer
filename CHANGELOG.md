@@ -1,3 +1,7 @@
+## 0.2.1
+
+* Updated Dart and Flutter SDK constraints.
+
 ## 0.2.0
 
 * Updated dependencies.
